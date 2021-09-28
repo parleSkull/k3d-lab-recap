@@ -1,0 +1,19 @@
+{
+  "name": "recaplab",
+  "version": "1.0.0",
+  "description": "nodejs hello world app for k3d recap lab at chaos eng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parleSkull/recaplab.git"
+  },
+  "author": "Steve Musili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parleSkull/recaplab/issues"
+  },
+  "homepage": "https://github.com/parleSkull/recaplab#readme"
+}
